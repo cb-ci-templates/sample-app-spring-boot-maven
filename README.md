@@ -50,3 +50,5 @@ kind load docker-image caternberg/cb-saas-spring-boot:latest
 
 
 
+
+
