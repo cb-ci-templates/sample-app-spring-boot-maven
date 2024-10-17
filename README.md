@@ -1,11 +1,13 @@
 Springboot-demo
 
+
 # Build 
 > mvn clean install
 
 # Docker
 
 see https://spring.io/guides/topicals/spring-boot-docker/
+
 
 ## Run
 > docker run -p 8080:8080  -ti caternberg/cb-saas-springboot
@@ -38,6 +40,12 @@ kind load docker-image my-custom-image:unique-tag
 docker pull caternberg/cb-saas-spring-boot:latest
 kind load docker-image caternberg/cb-saas-spring-boot:latest
 ```
+
+
+
+
+
+
 
 
 
